@@ -1,0 +1,57 @@
+body {
+    color: white;
+    background: black;
+    margin: 30px;
+    border-bottom: solid 1px;
+    font-family: "Chakra Petch", sans-serif;
+   }
+   
+   header{
+    border-bottom: solid 1px;
+    padding: 20px;
+    text-align: center;
+    font-size: 50px;
+   }
+   img {
+       height: 180px;
+   }
+   .Recomendador{
+       display: flex;
+       overflow-x: auto;
+       gap: 10px;
+   }
+   h1{
+       font-size: 25px;
+       text-align: center;
+   }
+   h2{
+       font-size: 25px;
+       text-align: center;
+   }
+   h3{
+       font-size: 25px;
+       text-align: center;
+   }
+   h4{
+       font-size: 25px;
+       text-align: center;
+   }
+   p1{
+       font-size: 17px;
+       padding: 20px;
+    text-align: center;
+   }
+   p2{
+       font-size: 17px;
+       padding: 20px;
+       text-align: center;
+   }
+   p3{
+       font-size: 17px;
+       padding: 20px;
+       text-align: center;
+   }
+   .img {
+   height: 100px;
+   
+   }
